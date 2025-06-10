@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "config.arcface-sdk.sdk-lib-path",
+      "type": "java.lang.String",
+      "description": "Description for config.arcface-sdk.sdk-lib-path."
+  }
+] }
